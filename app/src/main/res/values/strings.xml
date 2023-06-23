@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DinoMemory</string>
+    <string name="score" />
+</resources>
